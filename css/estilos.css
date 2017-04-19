@@ -52,6 +52,12 @@ main {
 	margin-top: 6vw;
 }
 
+.options a {
+	color: #88AA00;
+	transition: all 0.2s;
+	
+}
+
 @media (max-width: 480px) {
 
 	.nav-bar {
